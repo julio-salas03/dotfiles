@@ -1,0 +1,21 @@
+{
+  "name": "dotfiles",
+  "version": "0.0.0",
+  "description": "personal dotfiles",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julio-salas03/dotfiles.git"
+  },
+  "keywords": [
+    "dotfiles"
+  ],
+  "author": "Julio Salas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julio-salas03/dotfiles/issues"
+  },
+  "homepage": "https://github.com/julio-salas03/dotfiles#readme"
+}
